@@ -42,7 +42,6 @@ right, or on both side of the hyphens within the header row.</p>
 | ----- | ------ | ------ |
 | Header | Title | Here's this |
 | Paragraph | Text | And more |
-|
 
 # __Instructions__
 <p>6.S191 software labs are designed to be completed at your own pace. At the end of each
@@ -57,6 +56,4 @@ All code in this repository is copyright 2022 [MIT 6.S191 Introduction to Deep L
 Rights Reserved.
 <p>Licensed under the MIT License. You may not use this file except in compliance with the
 License. Use and/or modification of this code outside of 6.S191 must reference:</p>
-© MIT 6.S191: Introduction to Deep Learning  
-
-http://introtodeeplearning.com
+> © MIT 6.S191: Introduction to Deep Learning <br/>http://introtodeeplearning.com
