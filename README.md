@@ -43,6 +43,7 @@ right, or on both side of the hyphens within the header row.</p>
 | Header | Title | Here's this |
 | Paragraph | Text | And more |
 
+
 # __Instructions__
 <p>6.S191 software labs are designed to be completed at your own pace. At the end of each
 of the labs, there will be instructions on how you can submit your notebook for grade.
